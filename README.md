@@ -1,4 +1,4 @@
-# Wine-quality-Classification-Model
+# Wine-quality-Classification-Model ACCURACY 98%
 This challenge was from Microsoft to classify Wine Quality based on Real Data
 Classification Challenge
 Wine experts can identify wines from specific vineyards through smell and taste, but the factors that give different wines their individual charateristics are actually based on their chemical composition.
